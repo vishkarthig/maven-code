@@ -11,3 +11,8 @@ The content of the document......
 
 </body>
 </html>
+<style>
+  body {background-color: powderblue;}
+  h1 {color: red;}
+  p {color: blue;}
+</style>
