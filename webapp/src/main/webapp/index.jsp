@@ -26,12 +26,4 @@ The content of the document......
 
   some content here...
 
-</body>
-</html>
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=s6x3yOY3XeI&t=792s" type="video/mp4">
-  <source src="https://www.youtube.com/watch?v=s6x3yOY3XeI&t=792s" type="video/ogg">
-Your browser does not support the video tag.
-</video>
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
